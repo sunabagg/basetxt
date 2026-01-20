@@ -1,0 +1,5 @@
+--class-path "src"
+-main BaseAssetsMain
+--library libsunaba
+-lua "main.lua"
+-D lua-vanilla

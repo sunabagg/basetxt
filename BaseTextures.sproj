@@ -1,0 +1,16 @@
+{
+    "name": "basetxt",
+    "version": "0.7",
+    "type": "library",
+    "rootUrl": "basetxt://",
+    "assetsdir": "assets",
+    "scriptdir": "src",
+    "apisymbols": false,
+    "sourcemap": false,
+    "entrypoint": "BaseAssetsMain",
+    "pluginEntrypoint": "BaseAssetsPlugin",
+    "luabin": "main.lua",
+    "libraries": [],
+    "compilerFlags": [
+    ]
+}
